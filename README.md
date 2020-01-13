@@ -1,7 +1,6 @@
 # Bitcoin Transactions Analysis
 We studied the bitcoin transactions from 03/01/2009 to 09/09/2016.
-Using neo4j, we did a clustering of the bitcoin addresses,  
-and constructed the bitcoin network user graph (a graph database). 
+Using neo4j, we did a clustering of the bitcoin addresses, and constructed the bitcoin network user graph (a graph database). 
 
 ## Prerequisites
 
@@ -17,7 +16,7 @@ and constructed the bitcoin network user graph (a graph database).
 - py2neo
 
 ### Data to analyse
-- Bitcoins Transactions (JSON format) : in this project we used the transactions from 2009 to 2017.  
+- Bitcoins Transactions : JSON format 
 - The labels of the BTC Addresses (optional)
 
 ## The project Folder "Code_StageM2_BITUNAM"
