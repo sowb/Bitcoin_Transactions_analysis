@@ -50,7 +50,7 @@ for the clustering graph with h1.
 ### Folder neo4j_scripts
 
 Contains 3 Neo4j scripts, that must be executed on a SSH. 
-- neo4j_script_clustering_graph.sh: used to buildthe clustering graph on Neo4j
+- neo4j_script_clustering_graph.sh: used to build the clustering graph on Neo4j
 - neo4j_script_export_partitions.sh: used to export partition to the working directory
 - neo4j_script_bitcoin_graph.sh: used to build the Bitcoin Graph in Neo4j 
 
